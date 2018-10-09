@@ -49,6 +49,7 @@ demo-typescript-babel@1.0.0 C:\dev\github\demo-typescript-babel
 +-- @babel/plugin-proposal-class-properties@7.1.0
 +-- @babel/plugin-proposal-object-rest-spread@7.0.0
 +-- @babel/preset-env@7.1.0
-+-- @babel/preset-typescript@7.1.0
-`-- typescript@3.1.1
+`-- @babel/preset-typescript@7.1.0
 ```
+
+Note that package typescript is NOT installed (it's not required).
